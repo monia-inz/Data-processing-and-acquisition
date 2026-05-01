@@ -1,0 +1,24 @@
+$git status
+
+# Untracked files:
+# DATA/*
+# CONFIG_W/*
+
+DATA/*
+CONFIG_W/*
+
+*.pyc
+
+CONFIG/INI_INV.ini
+CONFIG/INI_Time.ini
+CONFIG/INI_config.ini
+__pycache__/Modbus_v2.cpython-37.pyc
+.vscode/*
+Library/Portal/inverter_status.json
+tmp.ini
+Tests/*
+C_tests/*.o
+C_tests/programtest
+Library/Output_INV_2021_05_04_09_00.csv
+Library/Output_INV_2021_05_04_14_00.csv
+
